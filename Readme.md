@@ -16,3 +16,9 @@ pip install yt-dlp
 # Future plans:
 - Clubhouse has very good arabic transcriber network
 
+# Install:
+pip install -U openai-whisper
+
+# Test:
+whisper tst.mp3 --model medium
+
